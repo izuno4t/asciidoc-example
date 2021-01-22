@@ -29,7 +29,7 @@ jobs:
     # Output command using asciidoctor-action
     - name: Build AsciiDoc step
       id: documents
-      uses: izuno4t/asciidoc-example
+      uses: izuno4t/asciidoc-example@master
       with:
         shellcommand: "asciidoctor README.adoc" 
         
