@@ -51,3 +51,11 @@ asciidocはヘッダー(見出し)の扱いが厳格な文書形式です。 +
   本ドキュメントはAsciidocのビルドサンプルとして利用します。
 ....
 ====
+
+
+=== リファレンス
+
+* https://asciidoctor.org/[Asciidoctor]
+
+* https://github.com/asciidoctor/asciidoctorj[asciidoctor/asciidoctorj]
+* https://takumon.github.io/asciidoc-syntax-quick-reference-japanese-translation/[Asciidoctor 文法クイックリファレンス(日本語訳)]
