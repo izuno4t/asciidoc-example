@@ -21,7 +21,7 @@ jobs:
     # Output command using asciidoctor-action
     - name: Build AsciiDoc step
       id: documents
-      uses: Analog-inc/asciidoctor-action@master
+      uses: izuno4t/asciidoc-example
       with:
         shellcommand: "asciidoctor README.adoc" 
     # Use the output from the documents step
