@@ -27,12 +27,12 @@ jobs:
     - uses: actions/checkout@v2
 
     # Output command using asciidoctor-action
-    - name: Build AsciiDoc step
+    - name: Build AsciiDoctor Docker Action
       id: documents
-      uses: izuno4t/asciidoc-example@master
+      uses: Analog-inc/asciidoctor-action@master
       with:
-        shellcommand: "asciidoctor README.adoc" 
-        
+        shellcommand: "asciidoctor index.adoc"
+
     # Use the output from the documents step
     - name: Save AsciiDoc step
       uses: actions/upload-artifact@v1
