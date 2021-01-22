@@ -56,6 +56,8 @@ asciidocはヘッダー(見出し)の扱いが厳格な文書形式です。 +
 === リファレンス
 
 * https://asciidoctor.org/[Asciidoctor]
-
 * https://github.com/asciidoctor/asciidoctorj[asciidoctor/asciidoctorj]
 * https://takumon.github.io/asciidoc-syntax-quick-reference-japanese-translation/[Asciidoctor 文法クイックリファレンス(日本語訳)]
+* https://tech-blog.cloud-config.jp/2020-03-26-github-actions-asciidoc1/[GitHub Actionsを使って気軽にAsciiDocを出力しよう(1)]
+* https://www.science.co.jp/case/yamaha/github_asciidoc/[【コスト削減約30％以上】AsciiDocとGitHubでPDF、HTMLマニュアルのデータを部署をまたいで一元管理]
+* https://postd.cc/living-the-future-of-technical-writing/[テクニカルライティングの将来 ー GitHub上のAsciidocで技術書Pro Gitを協働執筆]
